@@ -21,7 +21,7 @@
     "@types/redux-thunk": "^2.1.0",
     "axios": "^0.19.2",
     "immer": "^6.0.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "numbro": "^2.2.0",
     "react": "16.11.0",
